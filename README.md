@@ -8,3 +8,6 @@ Stuff that I won't remember but would like to remember
 **Cherry pick a range of commits**
 
 `git cherry-pick OLDER_COMMIT..NEWER_COMMIT`
+
+**Squash stuff**
+`git rebase -i`
