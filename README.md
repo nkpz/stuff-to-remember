@@ -15,7 +15,7 @@ Stuff that I won't remember but would like to remember
 
 `git rebase -i`
 
-**Whitespace shit**
+**Whitespace in merges**
 
 `git merge -Xignore-all-space`
 
