@@ -10,4 +10,5 @@ Stuff that I won't remember but would like to remember
 `git cherry-pick OLDER_COMMIT..NEWER_COMMIT`
 
 **Squash stuff**
+
 `git rebase -i`
