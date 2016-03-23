@@ -1,6 +1,8 @@
 # generalist-cheat-cheet
 Stuff that I won't remember but would like to remember
 
+##Git 
+
 **Revert a range of commits**
 
 `git revert OLDER_COMMIT^..NEWER_COMMIT`
