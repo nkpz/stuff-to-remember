@@ -15,12 +15,12 @@ Stuff that I won't remember but would like to remember
 
 **Whitespace shit**
 
-git merge -Xignore-all-space
+`git merge -Xignore-all-space`
 
 Ignore whitespace when comparing lines.
 This ignores differences even if one line has whitespace where the other line has none.
 
-git merge -Xignore-space-change
+`git merge -Xignore-space-change`
 
 Ignore changes in amount of whitespace.
 This ignores whitespace at line end, and considers all other sequences of one or more whitespace characters to be equivalent.
