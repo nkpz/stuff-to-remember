@@ -1,5 +1,4 @@
-# generalist-cheat-sheet
-Stuff that I won't remember but would like to remember
+# Stuff to remember
 
 ##Git 
 
